@@ -1,4 +1,4 @@
-# Rust API client for openapi
+# Rust API client for Morph
 
 REST API for managing MorphVM instances and snapshots.
 
